@@ -1,1 +1,1 @@
-web: bin/hubot -a slack -n todo-manager
+web: bin/hubot -a slack
